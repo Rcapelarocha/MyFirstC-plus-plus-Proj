@@ -1,9 +1,10 @@
-C++ Basics and Object-Oriented Programming
-Overview
+#C++ Basics and Object-Oriented Programming
+#Overview
 
 This repository contains C++ code snippets that cover fundamental concepts of the C++ programming language. The code provides examples and explanations for various topics, including basic syntax, control structures, functions, recursion, templates, structs, enums, and object-oriented programming (OOP) principles.
 Contents
-Basics
+
+- **Basics**
 
     Print "Hello World!"
     Variable declaration and initialization
@@ -13,7 +14,7 @@ Basics
     Control structures: if statements, switches, ternary operator
     Logical operators and useful string functions
 
-Loops
+- **Loops**
 
     While loop
     Do-while loop
@@ -22,7 +23,7 @@ Loops
     Arrays, multidimensional arrays, and foreach loop
     sizeof() and memory addresses
 
-Functions
+- **Functions**
 
     Function declarations and definitions
     Recursion
@@ -30,12 +31,12 @@ Functions
     Structs as function arguments
     Enums and switch statements
 
-Pointers and Memory Management
+- **Pointers and Memory Management**
 
     Pointers and references
     NULL pointer and dynamic memory allocation (new/delete)
 
-Object-Oriented Programming
+- **Object-Oriented Programming**
 
     Classes and objects
     Inheritance
